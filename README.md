@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Azaryn
-- 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://github.com/Azaryn">
+    👓 Hello, I am Rafi Hadianto Aribowo 👓
+    🎓 University of jember, Information Technology 🎓
+    🧑‍💻 interested in becoming a full-stack developer, in the learning process 🧑‍💻
+    😋 Pronouns: He/Him 😋
+</p>
 
-<!---
-Azaryn/Azaryn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Social Media  -->  
+<p align="center">
+  Social Media
+</p>
+
+
