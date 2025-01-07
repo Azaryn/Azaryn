@@ -1,8 +1,8 @@
 
-# Hello, I am Rafi Hadianto Aribowo</a>👓<br>
-# 🎓 University of Jember, Information Technology 🎓<br>
-# 🧑‍💻 interested in becoming a full-stack developer, in the learning process 🧑‍💻 <br>
-# 😋 Pronouns: He/Him 😋<br>
+# 👓 Hello, I am Rafi Hadianto Aribowo
+### 🎓 University of Jember, Information Technology 
+### 🧑‍💻 interested in becoming a full-stack developer, in the learning process
+### 😋 Pronouns: He/Him
 
 
   # Github Activity :
