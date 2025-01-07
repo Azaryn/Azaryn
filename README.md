@@ -11,10 +11,8 @@
 <p style="">
   Github Activity :
 </p>
-<p>
-  [![Azaryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azaryn)](https://github.com/Azaryn/github-readme-stats&show_icons=true)
-  [![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Azaryn&layout=compact)
-</p>
+[![Azaryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azaryn)](https://github.com/Azaryn/github-readme-stats&show_icons=true)
+[![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Azaryn&layout=compact)
 
 
 
