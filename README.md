@@ -1,6 +1,6 @@
 
 # 👓 Hello, I am Rafi Hadianto Aribowo
-🎓 University of Jember, Information Technology 
+🎓 University of Jember, Information Technology <br>
 🧑‍💻 Coffee, Code, and Capek
 
   # Github Activity :
