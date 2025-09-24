@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning OOP<br>🎯 Goals: Happy<br>🎲 Fun fact: Coffee, Code, and Capek</p>
+<p align="left">📚 I'm currently learning UI/UX Design, Website, and SQL<br>🎯 Goals: Happy<br>🎲 Fun fact: Coffee, Code, and Capek</p>
 
 ###
 
